@@ -1,11 +1,6 @@
-# password-less-login
+### Password Less Login System
 It is a Password less login system project. Which means no need password 🔑 
 
-```php
-composer require phpmailer/phpmailer
-```
-=======
-## Password less login system
-```php
+```bash
 composer require phpmailer/phpmailer
 ```
